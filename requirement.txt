@@ -1,0 +1,4 @@
+# Install with: python -m pip install -r requirement.txt
+-e .
+jinja2
+openpyxl>=3.1
